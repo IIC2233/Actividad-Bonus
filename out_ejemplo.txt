@@ -50,6 +50,9 @@
 
 # Consulta 4
 - Título: 'Etymology' - Posición: (2747, 4097)
+- Título: 'See also' - Posición: (84140, 84218)
+- Título: 'Further reading' - Posición: (84296, 84297)
+- Título: 'External links' - Posición: (84319, 84815)
 
 # Consulta 5
 - Subtítulo: 'Early history' - Posición: (4136, 4996)
